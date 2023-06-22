@@ -11,4 +11,3 @@ after_success:
 addons:
   sonarcloud:
     organization: kyungjus
-    projectKey: kyungjus_lg23devsecops

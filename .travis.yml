@@ -1,7 +1,4 @@
 language: python
-env:
-  global:
-  - REPO_DIR=/home/travis/build/kyungjus/lg23devsecops
 python:
   - "3.9"
 #  - "3.7"
